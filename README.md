@@ -232,8 +232,4 @@ start target\site\jacoco\index.html
 - **Checkstyle**: Кодын загварын шалгалт
 - **JaCoCo**: Код хамрагдлын шинжилгээ
 - **GitHub Actions**: CI/CD automation
-<<<<<<< HEAD
 - **Git**: Хувилбарын удирдлага
-=======
-- **Git**: Хувилбарын удирдлага
->>>>>>> 85c4bf1f938ecb2524194265c858817d93271fb1
