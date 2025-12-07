@@ -11,6 +11,9 @@ public class Multiplication {
      * @param b second number
      * @return product of a and b
      */
+    /**
+     * Multiplication calculator for numeric operations.
+     */
     public double multiply(double a, double b) {
         return a * b;
     }
