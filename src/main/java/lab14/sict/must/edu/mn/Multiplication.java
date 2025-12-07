@@ -12,7 +12,7 @@ public class Multiplication {
      * @return product of a and b
      */
     /**
-     * Multiplication calculator for numeric operations.
+     * Multiplication calculator with validation support.
      */
     public double multiply(double a, double b) {
         return a * b;
